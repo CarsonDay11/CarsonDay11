@@ -1,4 +1,7 @@
+# A fullstack developer from the USA. I 💜 Raspberry Pi!
 
+Hey stranger! Let's not be strangers anymore. <a href="mailto:carsom@carsonday.pro">HIRE ME!</a>
+# Launguages:
 <div class="icons">
 <img src="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" alt="NodeJS" width="100" height="100">
 <img src="https://camo.githubusercontent.com/16bbe3c62e06c0099a8bd86816b7993b3eb49d8cd21eb74c7bff7db7dc3787b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="JS" width="100" height="100">

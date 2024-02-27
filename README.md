@@ -1,6 +1,2 @@
-# A fullstack developer from the USA. I 💜 Raspberry Pi!
-
-Hey stranger! Let's not be strangers anymore. <a href="mailto:carsom@carsonday.pro">HIRE ME!</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonDay11&hide_progress=true)
-](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonDay11&hide_progress=true)
+👋 Hey there! I'm a full-stack developer from the USA with a 💜 for Raspberry Pi! Explore my projects and let's collaborate! Hire me!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonDay11&layout=donut-vertical)](https://github.com/CarsonDay11/github-readme-stats)

@@ -1,3 +1,5 @@
-# ✨ When I'm bored, I write code. That's enough you need to know about me.
+# ✨ It's official.
+I am pleased to announce that I have made the decision to transition to GitLab. After experiencing increasing frustration with GitHub, I have determined that GitLab aligns more closely with both my personal preferences and the practices of my organization, Cryptic, headquartered at https://crypticchat.xyz.
+As our entire company has migrated to GitLab, I believe it is appropriate for me to do the same. You can find my GitLab profile by visiting https://gitlab.com/carsonfromcryptic.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonDay11&layout=donut-vertical)](https://github.com/CarsonDay11/github-readme-stats)
+Thank you, and farewell. 👋

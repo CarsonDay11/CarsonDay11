@@ -1,5 +1,6 @@
-# ✨ It's official.
-I am pleased to announce that I have made the decision to transition to GitLab. After experiencing increasing frustration with GitHub, I have determined that GitLab aligns more closely with both my personal preferences and the practices of my organization, Cryptic, headquartered at https://crypticchat.xyz.
-As our entire company has migrated to GitLab, I believe it is appropriate for me to do the same. You can find my GitLab profile by visiting https://gitlab.com/carsonfromcryptic.
+# ✨ It's official. Goodbye
+I am excited to announce that I have decided to transition to GitLab. After growing increasingly frustrated with GitHub, I found that GitLab better suits both my personal preferences and the practices of my organization, Cryptic, headquartered at https://crypticchat.xyz.
+Since our entire company has moved to GitLab, it makes sense for me to follow suit. You can now find my GitLab profile at https://gitlab.com/carsonfromcryptic.
 
+P.S. For those wondering, I will still use this GitHub account for projects that are exclusively hosted here, though I prefer GitLab.
 Thank you, and farewell. 👋
